@@ -1,0 +1,11 @@
+com\example\preTest\model\Order.class
+com\example\preTest\model\SupplyRecord.class
+com\example\preTest\service\OrderDetailService.class
+com\example\preTest\model\OrderDetailsInput.class
+com\example\preTest\model\SupplyOutput.class
+com\example\preTest\PreTestApplication.class
+com\example\preTest\model\OrderDetailsResponse.class
+com\example\preTest\service\SupplyService.class
+com\example\preTest\controller\PreTestRestController.class
+com\example\preTest\model\Shipment.class
+com\example\preTest\model\SupplyInput.class
